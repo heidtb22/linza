@@ -1,0 +1,14 @@
+.footer{
+    height: 15vw;
+}   
+
+.fa-facebook{
+    position: relative;
+    right: 43vw;
+    top: 2vw;
+    color:black;
+}
+
+.fa-facebook:hover{
+    color:grey;
+}
