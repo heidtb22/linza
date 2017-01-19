@@ -12,3 +12,7 @@
 .fa-facebook:hover{
     color:grey;
 }
+
+.carousel-inner{
+    height:40vw;
+}
