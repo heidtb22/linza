@@ -11,6 +11,7 @@ $phone = $_POST['phone'];
 $message = $_POST['message'];
 
 // set up email
+echo 'hello';
 $msg = "New contact form submission!\nName: " . $name . "\nEmail: " . $email . "\nPhone: " . $phone . "\nEmail: " . $email;
 $msg = wordwrap($msg,70);
 mail($myemail,"New Form Submission",$msg);

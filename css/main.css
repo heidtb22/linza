@@ -16,3 +16,23 @@
 .carousel-inner{
     height:40vw;
 }
+
+.img-left{
+    width:300px;
+}
+
+.brand{
+    display:none;
+}
+.address-bar{
+    display: none;
+}
+.navi{
+    display: none;
+}
+.content{
+    display: none;
+}
+.footer{
+    display: none;
+}
